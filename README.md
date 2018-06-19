@@ -1,2 +1,2 @@
-#My App
-This is my app
+#MyApp
+This is my app. Handle with care
